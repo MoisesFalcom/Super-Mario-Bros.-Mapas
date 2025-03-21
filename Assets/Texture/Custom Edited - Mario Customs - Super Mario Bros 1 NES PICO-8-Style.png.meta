@@ -1,0 +1,5962 @@
+fileFormatVersion: 2
+guid: 2e8f2407fd8e63740ac6da82808edfc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6999781526770510725
+    second: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b6f705638342160800000000000000
+      internalID: 6999781526770510725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3da0476ab4fe34bbc2b523c8fb4ca8
+      internalID: 2080522165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2755558b3f22f4c922cc7f7cee1c5f
+      internalID: 707758138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0d60355af4113489e27e547f235c34
+      internalID: 1712885098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0aca12c15b32e419fa6ad17b197ceb
+      internalID: -742323698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941f7e996221cbd41a5c9dbd913c5f5c
+      internalID: 1664582855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474dd6a857415454f913b4c5606c149c
+      internalID: -1099300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2400d3d44fd39fe4383d467ec8b3a65a
+      internalID: 1063767389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b677c71d58bc6046b57777d014e1b95
+      internalID: -1443243421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62539961033ff5e4cba3825b9f337d73
+      internalID: 806131275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e21533d8eb523e4aa5d7518ee870662
+      internalID: 2063083291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c399566281dfd4645b6871034e23cbd9
+      internalID: 1907901593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15cd30f87885c3478c0ac236f858e1d
+      internalID: 955084788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868a349b3102984b8c52d2d34282090
+      internalID: 107989658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb656d42edda34eb0e721fe50593b2
+      internalID: 744541748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21831b73b4a374b4e94abdf8d0ff07de
+      internalID: -1011208678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d29f84e31d647b4dae5c1ba328781a5
+      internalID: 1001390132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff55f27eb580e5643bd23ea5d594c8ed
+      internalID: 1062981026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54cb9c399998514ca8256390de54cae
+      internalID: -1586626356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfa4e828cbcaa94fb698bb85d7ad4b0
+      internalID: 62230673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a38ca00d4fd6df40838b43bbfc0d6b8
+      internalID: -1396013318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c0ad39b4755254b840760d579a2bd6
+      internalID: -553633177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c6157b24f22441ab6082c0e52f30f
+      internalID: -401044385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c039cfbbae8df8347bff6a27ab2a569b
+      internalID: -477884529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e32044a33e8c940ab135e5a3819c53
+      internalID: -872195119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a460ea228ad726c4c80413fb384cb67b
+      internalID: 765922965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a7a1d4d2571bb4081446afceaefd07
+      internalID: -1138808318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f78dc39520c1945aaf8b942546e39c
+      internalID: -535177963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d3b32990f3267439b3178dff5b4d38
+      internalID: 1544206565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4090f6c7f0970b74fa6b6cefee642d40
+      internalID: 385773438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9e60c35fb01bd45859dc27fdb0c492
+      internalID: 1525201711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1fcaa8ad1a8cb449c4ab8032a149c0
+      internalID: -481233687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4f300465c9c534c99dbfc0dc298022
+      internalID: -1197647758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d20e31acbb6af64b980d3069172fc03
+      internalID: -1979326146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9438b6b9c46a854d87f70c0ca67d448
+      internalID: 905570165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0bc1823782c76458f81197029f1a72
+      internalID: -39770975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeab2b7a8f20ca45a3a3a93fbe5b576
+      internalID: 709627493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459d1feef11986a4781b2fc68d24b11a
+      internalID: 1661730656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a021bc32efd0da345992c2c5e984a64b
+      internalID: 99430683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96b99b7c563eb6478c11914cf2990be
+      internalID: -1018781075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6340452a448a45b7b82b7e3a6e3ef
+      internalID: -855695823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabede7b82548fb40972c61e5f432099
+      internalID: -1608395860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab0f09330dcb0540b418d0f667a6678
+      internalID: 580478128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751a597c919859a43b3396111f4c59b4
+      internalID: -1478733612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e64823f57368149859f941a6a84497
+      internalID: 1274743143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4850d9f1e7b3f64f8cc5ddf642f9335
+      internalID: -1350968232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6148f4954d75d40903458cc47cf9fa
+      internalID: 2063485912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b369d9989ffb488ba76f2139c5a14
+      internalID: -1386850592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74187e0776b5e0a42804806dea7946ff
+      internalID: 546130136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ad399db30e1f54ba81c6f7a56a1b60
+      internalID: 420366413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401be203a67034a4c857b625357741b7
+      internalID: -1914595951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2c36f69348b44dac62c8882f61444
+      internalID: 943397924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca9891a5f6bcd4786c2c6ce347c981
+      internalID: 1175760077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_53
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b8d27d6f4a7a4896bf923ecd2ee62
+      internalID: 1564353383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_54
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702ef0b8969f463499e58b013288a02a
+      internalID: -966790444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6e912e72c77804781a74ffd72b21cd
+      internalID: -235043492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcee5cd3ed3b1949b9241cc709dc6ad
+      internalID: -1436616687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88de567b98730f74c891c875fe3a37d3
+      internalID: -2019244030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_58
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3a96b8ec5739d4ca07688a4dd27184
+      internalID: -887884744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_59
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93db60fadd7c99743b92a1824cc1873f
+      internalID: -1265292629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c2ed314670fb748ab5426a515422f5
+      internalID: -560646049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_61
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a5b24fb89c21742a60692056d13244
+      internalID: -502545692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e47d90ebbc8483439f9a2076d19b909
+      internalID: 219344784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_63
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa358d5be9e59144d9b61f6861600c87
+      internalID: 1485822178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4556e3b2b83231947897bd0f51db97d8
+      internalID: -1637869151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_65
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6ed1ebea8666d4780fbf9ab9171588
+      internalID: -765814559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d66f10a7f79504ca56307ab55fc20e
+      internalID: -690623181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_67
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4273b57322cca4c9de0fe9a8becccc
+      internalID: -1211828440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_68
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296df96e205cf974ca0715461a99a544
+      internalID: 1337512501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_69
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc427c007c527149ac1ec9a8eda4026
+      internalID: 1831222910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7d971dcd03b2a46af92a6ecb10c7ad
+      internalID: 1206966072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_71
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eefff2a7190bc64093d8187a5b1127a
+      internalID: -876115925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_72
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1182656e1b5a9348a1adc8615e989a6
+      internalID: -1072436624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_73
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1c86e05b797e54f9a29aea5327e685
+      internalID: -575296169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_74
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e33c029d165e34dbe498c4cb20cecf
+      internalID: -1779444375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_75
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d741f07ec10ba3642972003700a457e2
+      internalID: 5313655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c9fef3c9d1c147bb24c0a0db787df
+      internalID: -1014938818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_77
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abef64bed3fb63b43ae99a792edc1817
+      internalID: -1931758782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fc102cd0245394d86c23e5b017736f
+      internalID: 1887902741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_79
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a79358c3d37584a9067293bebe26ff
+      internalID: 1807670160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca42c3ce2d89345972fe8979bbe6ec
+      internalID: -599200314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_81
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34d96c8007c693438c382d6cf3c8a75
+      internalID: 1858764530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_82
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a041d34e65c7134e80503d947634259
+      internalID: 344579640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_83
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3147afbcb169893468fe99f9afee83bb
+      internalID: 1236136520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_84
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191adec3e051b214f8c4a584d69eec2a
+      internalID: -2069734091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_85
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa0eec4adec1d549a5ba5c9766de027
+      internalID: -2084585541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_86
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7527c03f8d5b7942b01ad215267c2f4
+      internalID: -381434919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_87
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dec5bb3b63ed54ba3d91c285c70986
+      internalID: -1933265307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_88
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b848ad44a90f5cd499e215db3504e15d
+      internalID: -228816581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_89
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be16d9c239270b34c9ed422483c8ebf6
+      internalID: 1877141288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_90
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757015745a13f904bbdf4438bec25920
+      internalID: 1128907906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_91
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3a9ad469388c9459826c044c3293bf
+      internalID: -449115729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e5f5afe76081d4484a6c5bec3242f9
+      internalID: 2005064770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_93
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0f8182392d6924bb12fd3de387514d
+      internalID: -1598938773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_94
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9941c1394e285049b980c03374d6b0c
+      internalID: 320147292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_95
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e334ca08407577e4dba8ce39e8c6cc61
+      internalID: -786158507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e826f2a314b1ba49a65f57bf4a338f1
+      internalID: -608098301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_97
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a5f367f0aa71a42b34714f4ed430aa
+      internalID: 400089086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_98
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1ef3b72b0f719469603a19183d0dc8
+      internalID: 2094068630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_99
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274d1c7e87b74cf478555860b80da3bc
+      internalID: -1968954334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_100
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22548472a70cb814dbde1dd29cd80453
+      internalID: -1470938864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_101
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2d33ea45d8fa6479d1db024c9a2612
+      internalID: 296029801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_102
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf2d6bb2b021414da3bad7f52096798
+      internalID: -585596884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_103
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9412cc12508c0a4591768222e92903f
+      internalID: -1928344560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_104
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2489d375de2feec4d8cf28a411f1d575
+      internalID: -557464417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_105
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2adfefa7174494c896b115ae02582c
+      internalID: -2038800153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_106
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdcbc11eade2dd42be2ee1e1065a6ae
+      internalID: 1538596076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_107
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac20e8242a8919e4e8e97e22cf1886cf
+      internalID: 643568874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_108
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1e6930e32dd95449f70dde7c93b17a
+      internalID: -1787611355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_109
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b51dbbd3e83f5b47bf8495f376c3b21
+      internalID: 651553802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_110
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d97fb3c993cb141b0906b35eb07317
+      internalID: 1450453563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_111
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7249fd1dc067f45b0989f6f789a6e9
+      internalID: -1782852209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_112
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6704513858e347244bba4331ca5beebc
+      internalID: -486551645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_113
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a8b00c98a784b46b57f08bb8e15588
+      internalID: -501228303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_114
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72e11a6106747489211a6be7fed15d
+      internalID: 375932203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_115
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cad7dd2c6f1b841b0829aa8b957cbb
+      internalID: 859308137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_116
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7921a25a7e8571345aa48f7616665896
+      internalID: 1171065412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_117
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e0d2504e04c98458ba8cbd21287b97
+      internalID: 1132746354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_118
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212cb84749ada694b8e60d0ee9c4ac7e
+      internalID: -1950360809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_119
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043a30dfe139ca1459c8281049f6ffbd
+      internalID: -306553565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_120
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a276f5a40fba31b49b2503b90eb7f24e
+      internalID: 1740008599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_121
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92fb9610c6669949875772d47d5ef21
+      internalID: 2136050419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_122
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb1b9b39bc203428d1a5435627f0a9
+      internalID: 1410247349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_123
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988cff986afceee47ba660e800a071b5
+      internalID: -951230336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_124
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63216190b3ff224479a2f29df0358b45
+      internalID: -214649135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_125
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a8e678336c05b409084f8ce376b3d8
+      internalID: -1896512379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_126
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbcd62394383f84f83f08675eb77b48
+      internalID: -249127505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_127
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abed67685f1e624cb64c21522ab85bf
+      internalID: 377043239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_128
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850ad733643ba04cbb3fbf854e65f75
+      internalID: 2072777658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_129
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2375718b963f842ac7dfa22d7b2625
+      internalID: -1384511650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_130
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c489617725af54b4b8365aca79d5cf39
+      internalID: -1210014578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_131
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7346b30f0c26e334ba3e870667cdbc0b
+      internalID: 894117026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_132
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27db49754d9cb8e45bdf5ead7cf1a01d
+      internalID: 1552980432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_133
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5f402e78d617949a5d8abf341ce615
+      internalID: 80913638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_134
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e871e3a1d7c03049bb15667b2e1092a
+      internalID: -1268259105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_135
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf265eac85f8294f900db4dc7066ad5
+      internalID: -1462880774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_136
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2877f4132152b4e95e392d96c66079
+      internalID: 1759385950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_137
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3672b9b803e0b6c46a175a6e7e80f83e
+      internalID: 1921392110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_138
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866b9608fd4d01140b10eca56c1aeeb8
+      internalID: -861066855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_139
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc48e2385d18d7643bd89c58e522d868
+      internalID: -913784489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_140
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d197340f0fdcd4aa8af870124d345b
+      internalID: 1424471238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_141
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa929b2f65777544bbdc4418a6cce29b
+      internalID: -574692935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_142
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62de11d1b9a9bc240b5276db667c8878
+      internalID: 1335458091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_143
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57e066970fcc245b49cd92155004c6
+      internalID: 240623987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_144
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a7a90e805625b47b9b4512a360cfba
+      internalID: 1993359702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_145
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adbb77a842bd58479c8e42afa44d2be
+      internalID: -1253116662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_146
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f5fe2318754364f970e056fd3a5f68
+      internalID: 1365112863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_147
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5884978936438e4f824860f98c6f7b0
+      internalID: -922182326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_148
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e6ae15eaba77449821827c7093a49a
+      internalID: 221719083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_149
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324e86379b21970409556b54443b3e21
+      internalID: -1656436294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_150
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43173a55242dda843b5aae03abd7655c
+      internalID: -562365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_151
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763c2f14dae0504418f2f8fec6d473d1
+      internalID: -1789093121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_152
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dbe8eabaaa9344cb4fe30a81a97c3a
+      internalID: 1329635698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_153
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bed44dd812d05941abc029561a0aa45
+      internalID: 103707528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_154
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2376d37e2068be94e9aba95feca90581
+      internalID: 240998960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_155
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189acd89aa7340245a65086c701b88a3
+      internalID: 681650881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_156
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdf5059f29e02f448ba7d0476b9b479
+      internalID: 215673892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_157
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb274bbc040777489938126acd3decb
+      internalID: -809039049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_158
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e4cf7c12a1b9342a8b5b8db2fab887
+      internalID: 249594187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_159
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e306bfe2230a5b47a008988d579ffb5
+      internalID: 1602706441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_160
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fde8c5d6ccb4fd42a54b5dd874464b5
+      internalID: 1613499447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_161
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7500f0b90873b3444babd00504d76b72
+      internalID: -345229217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_162
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7872ee5b0c2644884910d798a9227e
+      internalID: -1448709077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_163
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9cb37ff6a23cd4ea2656e325aadebe
+      internalID: 1132566546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_164
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef96229ceed81448c20e2186c3c403
+      internalID: 1433793879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_165
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb694883cd9fd2428c8144a8b29fdc8
+      internalID: -162660030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_166
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e517c35c5c513724ea3ee27deab97b1c
+      internalID: 696505947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_167
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0edb348cec5734087204f7f3a1cd7b
+      internalID: 447394360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_168
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5004b0d32e4563d48924cc11c9b62341
+      internalID: 1453233999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_169
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa377926bd24194ba0c7d3fee67365e
+      internalID: 1835822263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_170
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522daf72230e0a347b204e93838cb544
+      internalID: -1972983496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_171
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade6a3f704660c438690a6ffe1ff672
+      internalID: 1340824684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_172
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c136a7ea28dc2c4c8868d82eef72a80
+      internalID: 1596600015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_173
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27efa09fbfd38e64e9d601b25f258c25
+      internalID: 1829049970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_174
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125f88fa319d0f54ca4df41d63589e66
+      internalID: 779704884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_175
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c6e0a85c3570f4e9de9ab54fcbf6d5
+      internalID: 139207566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_176
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568ad3bab430fc74ab178f6f7a1cbc25
+      internalID: 2070662623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_177
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17661c31c950d0409fde15d9dbb2804
+      internalID: 498142577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_178
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0756c0ff641a2434eac22e04e6475bbd
+      internalID: 176532222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_179
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11ee3c888cda674b83dc0fbc8237259
+      internalID: 1983671368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_180
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d694622c1d41243974c3d9d2cbc0b4
+      internalID: -678384343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_181
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bbfcb36036f7b43b2f1347e8dc0927
+      internalID: -14624139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_182
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56e87dd5419755448e6b7e1cf676629
+      internalID: 782829407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_183
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27fb15e1c434d14c951f31290566dd0
+      internalID: 496344150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_184
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26be6a7e8427e644bdc569b32cb9a4a
+      internalID: -2010770586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_185
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9265086e643a7c241832654a98e7af3f
+      internalID: 645492407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_186
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be9c304e3232954b949f9a7928566b7
+      internalID: 847634789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_187
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0302a767ae6f149bb257c6034b391c
+      internalID: 346899252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_188
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a465723cde7714c9c32fdd994b7238
+      internalID: 428547985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_189
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df85fe7ea1d88db43abf7f131a7bde37
+      internalID: 1795583957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_190
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01298fc4349f1e4ca9a687d439a64a4
+      internalID: -821854129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_191
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b3cc76b6192a442b06e8929623068f
+      internalID: 2080452763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_192
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2660c5dab165347be557104e6e7102
+      internalID: -447564466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_193
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a3194c97f6b024789f6845a1099f9a
+      internalID: 804653316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_194
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875de6e992c7ea04d9be745c3b039860
+      internalID: 522329427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_195
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036f46a0f2b6da0499268d5818254e22
+      internalID: -745454653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_196
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4082431560a095408ad154e30d07b80
+      internalID: -1340329540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_197
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58752ff322ab85646a0713603b4cb607
+      internalID: -1561172066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_198
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034756e78b75f3b4fb01c63e81880713
+      internalID: -1183502029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_199
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7d226e1aea6848a1d6068a5d2c0f8
+      internalID: 438157557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_200
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa4a9f1479b32245bc618724020c610
+      internalID: -1219505429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_201
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75c0c4e15ce257468bfccf12df3ec42
+      internalID: -1357141630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_202
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1afe452ac7e62d42bc94ac392ff414e
+      internalID: -1353205589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_203
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cda6ee899e4ceb48b7aa52d8fd64a73
+      internalID: 547518914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_204
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a865a895725749932948de187d7df
+      internalID: 1687913363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_205
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb4cede72a11d64f96b39e825b3cc4e
+      internalID: 1596484485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_206
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f2947b793a1d469fff1a95e735b97
+      internalID: -732521385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_207
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1703ffb601bf3f84e938a6d12073da31
+      internalID: 402730985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_208
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c06d6a54046324485762b375673693
+      internalID: -547559398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_209
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f852c7f41c9674242979b4fb6aa0026d
+      internalID: 290749774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_210
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa74c88325047d4f91185b1cae09bf3
+      internalID: 2126143921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_211
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dc9ea3fd3207141ab4f18e4b1e8699
+      internalID: -1866536194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_212
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9204f580dee094298daea42e812dd5
+      internalID: 807366513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_213
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa98c73f046f9a4fb64a9b666e515e8
+      internalID: 1985239242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_214
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85266570ecebe19419a9b3f17789fb34
+      internalID: -341703916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_215
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed850a107fe2c4c931772c3621a55d
+      internalID: 1091798731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_216
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0308db59fe1488d4ba85556e812f0706
+      internalID: 1770388928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_217
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6c55d65141b734eabbceda9fc4c8e2
+      internalID: 1129790179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_218
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a74cdc8ed904d428eb6caeff49dbf3
+      internalID: -847834355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_219
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10054c14d69bb3943b65b8eac9312163
+      internalID: -1812010069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_220
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2000396028c6c4f9dad53068a1e043
+      internalID: 1373554180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_221
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1def1c71e8b4d47aab6844ecf25c58
+      internalID: -207494995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_222
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e1686cab12e7b4e990e0d0fb0d76da
+      internalID: -337826252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_223
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92399667929c15f4297a7b62cb38a24c
+      internalID: -1585862598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_224
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f8e8d942ba6034c9b751d9bcc3e7c3
+      internalID: -27615489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_225
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281530c3b38f6cb4bb2746698147f0e4
+      internalID: 1318960902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_226
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117c194f564e8ee46baec3c05bd92041
+      internalID: -1221594589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_227
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d5594a229896941ae6f64edbcafad5
+      internalID: 1878937323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_228
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10174f069a2490f45b178ee8c527de90
+      internalID: 1170510385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_229
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc843e265e1a3d345a5266cf46e5482a
+      internalID: 310573163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_230
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7350010eb3946d541b7d296fed7a4c21
+      internalID: 1199688531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_231
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6539c9f93e336f48bb00ef22b01b44b
+      internalID: 1324756560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_232
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c03480d6f07d8443b19a1adb2bdb707
+      internalID: 252131161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_233
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb695d077dc097e40a41c7eaf62617e8
+      internalID: 904738838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_234
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a000e278540b441aeaea3471747419
+      internalID: -696173867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_235
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3c0dffc2432894e9ceaab4dc856e0b
+      internalID: -912596716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_236
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2353f3bf93dd92c4584c12813703a5b7
+      internalID: 2013750169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_237
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a8c7f74337dc745a8cd67d3e769c2f
+      internalID: 1231377950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_238
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d999d5059c6f34ca5f3ae15114d441
+      internalID: -845286134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_239
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9a4f97b8e8ae14d8136821ece3e105
+      internalID: -2115880262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_240
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180f7af7eaada0a468c1291f236e9ba2
+      internalID: -188358401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_241
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5788564ae097cb74f89d687e1a333cda
+      internalID: -794296595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_242
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c0dc6ca1c2e034f8b1d8440db6edb2
+      internalID: -336524182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_243
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b298e945562e1104fad2dae8b2bd5447
+      internalID: 1814507938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_244
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f713c2bddea2b4ea20db0802f52b0f
+      internalID: -759616311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_245
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcc22891cc917d4c8c1ef67aa766cae
+      internalID: -1876857400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_246
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5be91f57f69ce64ead3f3c075178b24
+      internalID: 1126053344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_247
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbb68a56d7dd434e84d61e6c2ba6413
+      internalID: -1678359231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_248
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decdf7d508953674f9b2dec1ffd10f0b
+      internalID: 2096373149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_249
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54e4891f4f921e49aefc9da4732e8d5
+      internalID: -730397788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_250
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07ed011d6ae70b40b27e1f97b6ef8fc
+      internalID: -1111308130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_251
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfab7b83f7803949938d633419aac4b
+      internalID: 1688620345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_252
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14148feb0e1d8f6408d2433a0db80c7e
+      internalID: -417606939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_253
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76615b43b6179cf4b8c5e4afd99e2edb
+      internalID: 1670965826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c9d4d22d398c24d4e81eb10be5c3fb43
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_0: 6999781526770510725
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_1: 2080522165
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_10: 2063083291
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_100: -1470938864
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_101: 296029801
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_102: -585596884
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_103: -1928344560
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_104: -557464417
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_105: -2038800153
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_106: 1538596076
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_107: 643568874
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_108: -1787611355
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_109: 651553802
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_11: 1907901593
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_110: 1450453563
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_111: -1782852209
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_112: -486551645
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_113: -501228303
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_114: 375932203
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_115: 859308137
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_116: 1171065412
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_117: 1132746354
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_118: -1950360809
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_119: -306553565
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_12: 955084788
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_120: 1740008599
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_121: 2136050419
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_122: 1410247349
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_123: -951230336
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_124: -214649135
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_125: -1896512379
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_126: -249127505
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_127: 377043239
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_128: 2072777658
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_129: -1384511650
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_13: 107989658
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_130: -1210014578
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_131: 894117026
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_132: 1552980432
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_133: 80913638
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_134: -1268259105
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_135: -1462880774
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_136: 1759385950
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_137: 1921392110
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_138: -861066855
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_139: -913784489
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_14: 744541748
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_140: 1424471238
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_141: -574692935
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_142: 1335458091
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_143: 240623987
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_144: 1993359702
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_145: -1253116662
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_146: 1365112863
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_147: -922182326
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_148: 221719083
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_149: -1656436294
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_15: -1011208678
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_150: -562365
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_151: -1789093121
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_152: 1329635698
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_153: 103707528
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_154: 240998960
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_155: 681650881
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_156: 215673892
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_157: -809039049
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_158: 249594187
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_159: 1602706441
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_16: 1001390132
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_160: 1613499447
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_161: -345229217
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_162: -1448709077
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_163: 1132566546
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_164: 1433793879
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_165: -162660030
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_166: 696505947
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_167: 447394360
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_168: 1453233999
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_169: 1835822263
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_17: 1062981026
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_170: -1972983496
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_171: 1340824684
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_172: 1596600015
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_173: 1829049970
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_174: 779704884
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_175: 139207566
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_176: 2070662623
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_177: 498142577
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_178: 176532222
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_179: 1983671368
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_18: -1586626356
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_180: -678384343
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_181: -14624139
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_182: 782829407
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_183: 496344150
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_184: -2010770586
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_185: 645492407
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_186: 847634789
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_187: 346899252
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_188: 428547985
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_189: 1795583957
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_19: 62230673
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_190: -821854129
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_191: 2080452763
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_192: -447564466
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_193: 804653316
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_194: 522329427
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_195: -745454653
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_196: -1340329540
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_197: -1561172066
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_198: -1183502029
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_199: 438157557
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_2: 707758138
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_20: -1396013318
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_200: -1219505429
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_201: -1357141630
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_202: -1353205589
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_203: 547518914
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_204: 1687913363
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_205: 1596484485
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_206: -732521385
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_207: 402730985
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_208: -547559398
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_209: 290749774
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_21: -553633177
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_210: 2126143921
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_211: -1866536194
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_212: 807366513
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_213: 1985239242
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_214: -341703916
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_215: 1091798731
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_216: 1770388928
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_217: 1129790179
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_218: -847834355
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_219: -1812010069
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_22: -401044385
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_220: 1373554180
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_221: -207494995
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_222: -337826252
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_223: -1585862598
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_224: -27615489
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_225: 1318960902
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_226: -1221594589
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_227: 1878937323
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_228: 1170510385
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_229: 310573163
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_23: -477884529
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_230: 1199688531
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_231: 1324756560
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_232: 252131161
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_233: 904738838
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_234: -696173867
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_235: -912596716
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_236: 2013750169
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_237: 1231377950
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_238: -845286134
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_239: -2115880262
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_24: -872195119
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_240: -188358401
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_241: -794296595
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_242: -336524182
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_243: 1814507938
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_244: -759616311
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_245: -1876857400
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_246: 1126053344
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_247: -1678359231
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_248: 2096373149
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_249: -730397788
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_25: 765922965
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_250: -1111308130
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_251: 1688620345
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_252: -417606939
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_253: 1670965826
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_26: -1138808318
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_27: -535177963
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_28: 1544206565
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_29: 385773438
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_3: 1712885098
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_30: 1525201711
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_31: -481233687
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_32: -1197647758
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_33: -1979326146
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_34: 905570165
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_35: -39770975
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_36: 709627493
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_37: 1661730656
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_38: 99430683
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_39: -1018781075
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_4: -742323698
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_40: -855695823
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_41: -1608395860
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_42: 580478128
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_43: -1478733612
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_44: 1274743143
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_45: -1350968232
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_46: 2063485912
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_47: -1386850592
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_48: 546130136
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_49: 420366413
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_5: 1664582855
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_50: -1914595951
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_51: 943397924
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_52: 1175760077
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_53: 1564353383
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_54: -966790444
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_55: -235043492
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_56: -1436616687
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_57: -2019244030
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_58: -887884744
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_59: -1265292629
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_6: -1099300260
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_60: -560646049
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_61: -502545692
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_62: 219344784
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_63: 1485822178
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_64: -1637869151
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_65: -765814559
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_66: -690623181
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_67: -1211828440
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_68: 1337512501
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_69: 1831222910
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_7: 1063767389
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_70: 1206966072
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_71: -876115925
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_72: -1072436624
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_73: -575296169
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_74: -1779444375
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_75: 5313655
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_76: -1014938818
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_77: -1931758782
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_78: 1887902741
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_79: 1807670160
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_8: -1443243421
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_80: -599200314
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_81: 1858764530
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_82: 344579640
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_83: 1236136520
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_84: -2069734091
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_85: -2084585541
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_86: -381434919
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_87: -1933265307
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_88: -228816581
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_89: 1877141288
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_9: 806131275
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_90: 1128907906
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_91: -449115729
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_92: 2005064770
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_93: -1598938773
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_94: 320147292
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_95: -786158507
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_96: -608098301
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_97: 400089086
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_98: 2094068630
+      Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_99: -1968954334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
