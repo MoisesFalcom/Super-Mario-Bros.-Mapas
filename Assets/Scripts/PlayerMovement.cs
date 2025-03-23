@@ -14,8 +14,6 @@ public class PlayerMovement : MonoBehaviour
     private int jumpsRemaining;
     private bool isGrounded;
 
-    private Animator animator;
-
     [Header("Física y Gravedad")]
     public float baseGravity = 1f;
     public float fallGravityMult = 2.5f;
@@ -29,6 +27,9 @@ public class PlayerMovement : MonoBehaviour
     public InputAction moveAction;
     public InputAction jumpAction;
 
+    // 🔄 Referencia al controlador de animaciones
+    private PlayerAnimatorController animatorController;
+
     private void OnEnable()
     {
         moveAction.Enable();
@@ -41,6 +42,11 @@ public class PlayerMovement : MonoBehaviour
         jumpAction.Disable();
     }
 
+    private void Start()
+    {
+        animatorController = GetComponent<PlayerAnimatorController>();
+    }
+
     private void Update()
     {
         GroundCheck();
@@ -50,15 +56,24 @@ public class PlayerMovement : MonoBehaviour
         rb.linearVelocity = new Vector2(movementInput.x * moveSpeed, rb.linearVelocity.y);
         Flip();
 
+
+        // 🔄 Actualizar animaciones con base en física real
+        if (animatorController != null)
+{
+    animatorController.UpdateMovementAnimations(rb.linearVelocity);
+    animatorController.SetIsGrounded(isGrounded);
+}
+
+
         // Salto
         if (jumpAction.triggered && jumpsRemaining > 0)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
             jumpsRemaining--;
 
-            if (animator != null)
+            if (animatorController != null)
             {
-                animator.SetTrigger("jump");
+                animatorController.PlayJump();
             }
         }
     }
@@ -94,9 +109,6 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, -maxFallSpeed);
         }
-
-        // Para depurar:
-        // Debug.Log($"GravityScale: {rb.gravityScale} | VelY: {rb.linearVelocity.y} | DirX: {movementInput.x}");
     }
 
     private void Flip()
