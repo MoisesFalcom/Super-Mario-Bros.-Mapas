@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d4b2ac11127c6c94f85b9df1da767b69
+guid: c9129ddfe7d6ce94a937cbe272aeee7a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8088659657849610202
-    second: Mario_Small_Idle_0
+      213: -7705740666600200672
+    second: Mario - Walk1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mario_Small_Idle_0
+      name: Mario - Walk1_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 14
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: adf982f6a11b04070800000000000000
-      internalID: 8088659657849610202
+      spriteID: 0266304c0b5bf0590800000000000000
+      internalID: -7705740666600200672
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mario_Small_Idle_0: 8088659657849610202
+      Mario - Walk1_0: -7705740666600200672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

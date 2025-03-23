@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e4dcc70d016ef3243a6c036e1b1a9e80
+guid: 3fd1897ddba1865459477c0769529109
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4751271099544396211
-    second: Mario_Small_Run1_0
+      213: -7705740666600200672
+    second: Mario - Walk1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mario_Small_Run1_0
+      name: Mario - Walk1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 16
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d4e9318bb18101eb0800000000000000
-      internalID: -4751271099544396211
+      spriteID: 0266304c0b5bf0590800000000000000
+      internalID: -7705740666600200672
       vertices: []
       indices: 
       edges: []
