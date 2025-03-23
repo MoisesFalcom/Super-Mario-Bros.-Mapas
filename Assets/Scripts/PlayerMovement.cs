@@ -9,15 +9,15 @@ public class PlayerMovement : MonoBehaviour
     private bool isFacingRight = true;
 
     [Header("Configuración de Salto")]
-    public int maxJumps = 1; // Número de saltos permitidos
+    public int maxJumps = 1;
     public float jumpPower = 10f;
-    private int jumpsRemaining; // Saltos disponibles
-    private bool isGrounded; // Indica si el personaje está tocando el suelo
+    private int jumpsRemaining;
+    private bool isGrounded;
 
-    private Animator animator; 
+    private Animator animator;
 
     [Header("Física y Gravedad")]
-    public float baseGravity = 1f; 
+    public float baseGravity = 1f;
     public float fallGravityMult = 2.5f;
     public float maxFallSpeed = 10f;
 
@@ -43,57 +43,60 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        GroundCheck(); // Verifica si está en el suelo
-        ProcessGravity(); // Aplica gravedad personalizada
-
-        // Leer input del jugador
+        GroundCheck();
         movementInput = moveAction.ReadValue<Vector2>();
 
-        // Movimiento en X
+        // Movimiento horizontal
         rb.linearVelocity = new Vector2(movementInput.x * moveSpeed, rb.linearVelocity.y);
         Flip();
-        
 
         // Salto
-        // Salto
-if (jumpAction.triggered && jumpsRemaining > 0)
-{
-    rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
-    jumpsRemaining--; 
+        if (jumpAction.triggered && jumpsRemaining > 0)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
+            jumpsRemaining--;
 
-    if (animator != null) // 🔥 Verifica que animator no sea null antes de usarlo
-    {
-        animator.SetTrigger("jump");
+            if (animator != null)
+            {
+                animator.SetTrigger("jump");
+            }
+        }
     }
-}
 
+    private void FixedUpdate()
+    {
+        ProcessGravity();
     }
 
     private void GroundCheck()
     {
-        bool wasGrounded = isGrounded; // Guarda el estado anterior
+        bool wasGrounded = isGrounded;
 
-        // Detecta si el personaje está tocando el suelo
         isGrounded = Physics2D.OverlapBox(groundCheckPos.position, groundCheckSize, 0, groundLayer);
 
-        // Si aterriza en el suelo, reinicia los saltos disponibles
         if (isGrounded && !wasGrounded)
         {
-            jumpsRemaining = Mathf.Max(1, maxJumps); // Asegura que al menos tenga 1 salto si maxJumps > 0
+            jumpsRemaining = Mathf.Max(1, maxJumps);
         }
     }
 
     private void ProcessGravity()
     {
-        if (rb.linearVelocity.y < 0) // Si el personaje está cayendo
+        float verticalVelocity = rb.linearVelocity.y;
+
+        // Cambia la gravedad si está cayendo
+        rb.gravityScale = (verticalVelocity < -0.01f)
+            ? baseGravity * fallGravityMult
+            : baseGravity;
+
+        // Limita velocidad máxima de caída
+        if (verticalVelocity < -maxFallSpeed)
         {
-            rb.gravityScale = baseGravity * fallGravityMult;
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Max(rb.linearVelocity.y, -maxFallSpeed));
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, -maxFallSpeed);
         }
-        else
-        {
-            rb.gravityScale = baseGravity;
-        }
+
+        // Para depurar:
+        // Debug.Log($"GravityScale: {rb.gravityScale} | VelY: {rb.linearVelocity.y} | DirX: {movementInput.x}");
     }
 
     private void Flip()
@@ -112,5 +115,4 @@ if (jumpAction.triggered && jumpsRemaining > 0)
         Gizmos.color = Color.white;
         Gizmos.DrawWireCube(groundCheckPos.position, groundCheckSize);
     }
-
 }
