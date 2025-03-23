@@ -16,7 +16,6 @@ public class PlayerAnimatorController : MonoBehaviour
     float speedX = Mathf.Abs(velocity.x);
     animator.SetFloat("Speed", speedX);
 
-    Debug.Log("Set Speed: " + speedX); // 👈 Esto DEBE salir en consola
 }
 
 
