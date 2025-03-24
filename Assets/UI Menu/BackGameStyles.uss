@@ -1,0 +1,33 @@
+/* 
+    Autor: Moises Falcón Pacheco
+    Matrícula: A01801140
+    Hoja de estilos para el botón de regreso al menú desde el juego.
+*/
+
+.root {
+}
+
+.regresar {
+    align-content: flex-end;
+    justify-content: flex-end;
+    align-items: center;
+    align-self: center;
+    flex-direction: column-reverse;
+    width: 223px;
+    height: 92px;
+    font-size: 25px;
+    background-image: url("project://database/Assets/Buttons/PNG/22Button_Midl_Green.png?fileID=2800000&guid=bf625ae84f769384fb0cd1cc52d14971&type=3#22Button_Midl_Green");
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    color: rgb(255, 255, 255);
+    -unity-font-style: bold;
+}
+
+.regresar:hover {
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out-sine;
+    scale: 1.15 1.15;
+}

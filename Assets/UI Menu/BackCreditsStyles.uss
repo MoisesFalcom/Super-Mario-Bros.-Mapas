@@ -1,0 +1,19 @@
+/* 
+    Autor: Moises Falcón Pacheco
+    Matrícula: A01801140
+    Hoja de estilos para el botón de regreso desde créditos.
+*/
+
+.regresar {
+    align-self: flex-end;
+    width: 177px;
+    height: 111px;
+    font-size: 54px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(208, 255, 27);
+}
+
+.root {
+    margin-right: 50px;
+    margin-top: 50px;
+}

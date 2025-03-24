@@ -1,0 +1,8 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Template name="Main Menu" src="project://database/Assets/UI%20Menu/Main%20Menu.uxml?fileID=9197481963319205126&amp;guid=315fd9d52bee67446ad709619ef5b006&amp;type=3#Main Menu" />
+    <engine:Template name="Ayuda" src="project://database/Assets/UI%20Menu/Ayuda.uxml?fileID=9197481963319205126&amp;guid=8b04c04bebac66b46b6b865cdb827f2c&amp;type=3#Ayuda" />
+    <engine:Instance template="Ayuda" name="ayuda" style="flex-grow: 1; display: none; visibility: visible; overflow: visible; font-size: 50px; -unity-font-style: normal;" />
+    <engine:Instance template="Main Menu" name="menu" style="flex-grow: 1; display: flex; font-size: 76px; -unity-font-style: bold; -unity-text-align: upper-right; border-top-width: -53px; border-right-width: -53px; border-bottom-width: -53px; border-left-width: -53px; border-top-left-radius: 64px; border-top-right-radius: 64px; border-bottom-right-radius: 64px; border-bottom-left-radius: 64px; transform-origin: 48%; scale: 1 1; flex-direction: row; align-items: flex-start; justify-content: flex-end; white-space: nowrap; border-left-color: rgba(230, 15, 15, 0); border-right-color: rgba(230, 15, 15, 0); border-top-color: rgba(230, 15, 15, 0); border-bottom-color: rgba(230, 15, 15, 0);">
+        <AttributeOverrides element-name="ayuda" enabled="true" />
+    </engine:Instance>
+</engine:UXML>
